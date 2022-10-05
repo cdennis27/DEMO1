@@ -2,11 +2,11 @@
 
 ## Simple Store Marketplace
 
--Create header with contact information and description of what kind of product selling.
--Create a "Products on Sale" line bar
--Create a shortcut menu on the left column
--Create a sign up and log in setup
--Footer ????
+- Create header with contact information and description of what kind of product selling.
+- Create a "Products on Sale" line bar
+- Create a shortcut menu on the left column
+- Create a sign up and log in setup
+- Footer ????
 
 
 ## Table of Contents (Optional)
